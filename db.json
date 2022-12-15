@@ -1,0 +1,23 @@
+{
+    "data":[
+ {
+    "id":1,
+    "name":"ankita",
+    "age":"22",
+    "gender":"Female",
+    "Country":"India",
+    "Profession":"Student"
+
+    },
+    {
+      "id":2,
+      "name":"Singh",
+      "age":"21",
+      "gender":"Female",
+      "Country":"India",
+      "Profession":"Employed"
+  
+      }
+  ]
+
+}
