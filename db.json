@@ -18,10 +18,8 @@
       "Profession":"Employed"
   
       }
-  ]
-    
-    
-    {
+  ],
+
   "dogs": [
     {
       "id": 1,
@@ -38,6 +36,5 @@
       "gender": "Female"
     }
   ]
-}
 
 }
