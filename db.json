@@ -3,12 +3,12 @@
     {
     "id" :1,
     "title": "Note",
-    "description" :"To complete react",
+    "description" :"To complete react"
     },
      {
     "id" :2,
     "title": "Note",
-    "description" :"To complete javascript",
+    "description" :"To complete javascript"
     }
    ],
    
