@@ -73,6 +73,27 @@
       "place": "Banglore",
       "gender": "Female"
     }
+  ],
+     
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh Apple",
+      "date": "2023-03-26T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Car",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 10000000,
+      "comment": "A black car",
+      "date": "2023-03-26T18:30:00.000Z",
+      "id": 2
+    }
   ]
 
 }
